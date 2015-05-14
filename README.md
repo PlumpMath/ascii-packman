@@ -4,7 +4,7 @@ Another study project of mine, done in May 2011.
 
 ## A study project to learn...
 
-- cureses lib
+- curses lib
 - inter process communication
 - multithreading
 
