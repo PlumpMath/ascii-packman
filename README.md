@@ -16,7 +16,7 @@ Another study project of mine, done in May 2011.
 
 ## unfinihsed:
 
-- semaphor in chatting (didn't think it's needed)
+- semaphore in chatting (didn't think it's needed)
 - backspacing support in chatting
 - Korean support in chatting
 
