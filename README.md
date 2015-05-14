@@ -35,3 +35,7 @@ Second. Run 3 packman_client in each other terminal sessions.
 
     $ ./packman_client
 
+## License
+
+GPL v2
+
